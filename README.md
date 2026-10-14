@@ -12,10 +12,10 @@ I’m a support-minded developer with experience in production incidents triage,
 <hr></hr>
 
 - 👨‍🎓 My pronouns are He/Him.
-- 🤖 I’m currently learning python and how to run LLMs locally on my PC.
+- 🤖 I’m currently learning Python and Rust.
 - 🧙‍♂️ I recently got into playing One Piece TCG and enjoy the Jewelry Bonnie deck.
 - 💻 I enjoy using split keyboards like the ZSA Voyager on the Colemak keyboard layout.
-- 👨‍💻 My daily drivers are MacOS & Linux for work, and Windows for games.
+- 👨‍💻 My daily drivers are MacOS & Linux for work and games.
 - 🔨 I like building PCs and doing maintenance such as  thermal paste reapplication.
 - 🍿 I like watching YouTube and Netflix videos during my free time.
 - 📲 My LinkedIn can be found by clicking <a href="https://www.linkedin.com/in/somreth-peng/" target="_blank" rel="noopener noreferrer">here</a>.
