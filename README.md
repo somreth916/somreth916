@@ -3,18 +3,8 @@
     <h1>Hello 👋, I'm Somreth Peng</h1>
     <p>
 
-I’m a support-minded developer with experience in production incidents triage, defect analysis, application support, and cross-team troubleshooting.
+I’m a support-minded developer with experience in production incidents triage, defect analysis, application support, and cross-team troubleshooting. I enjoy turning unclear technical issues into clear next steps and improving the experience for both users and internal teams.
 
-    </p>
-    <p>
-
-I enjoy turning unclear technical issues into clear next steps and improving the experience for both users and internal teams.
-
-    </p>
-  </div>
-
-  <div style="width:190px; height:190px; border-radius:50%; overflow:hidden; border:4px solid #d1d5db; flex-shrink:0;">
-    <img src="https://files.readme.io/46b8331570a0d68fedd3221ccfd28cf1496e5942e469d75dbaf24157880dd0de-IMG_3454.jpeg" alt="Somreth Peng" style="width:100%; height:100%; object-fit:cover; display:block;" />
   </div>
 
 </div>
