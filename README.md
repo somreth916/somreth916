@@ -11,7 +11,6 @@ I’m a support-minded developer with experience in production incidents triage,
 
 <hr></hr>
 
-- 👨‍🎓 My pronouns are He/Him.
 - 🤖 I’m currently learning Python and Rust.
 - 🧙‍♂️ I recently got into playing One Piece TCG and enjoy the Jewelry Bonnie deck.
 - 💻 I enjoy using split keyboards like the ZSA Voyager on the Colemak keyboard layout.
